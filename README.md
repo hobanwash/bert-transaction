@@ -8,6 +8,8 @@ base_model:
 - google-bert/bert-base-uncased
 pipeline_tag: text-classification
 ---
+# Note: This is my simple copy over from https://huggingface.co/kuro-08/bert-transaction-categorization/tree/main 
+
 
 # Fine-Tuned BERT for Transaction Categorization
 
